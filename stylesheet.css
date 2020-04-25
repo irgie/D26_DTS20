@@ -207,12 +207,6 @@
   footer {
     padding-top: 30px;
     padding-bottom: 20px;
-      /*Animasi*/
-  animation-name: example;
-  animation-duration: 3s
+     
   }
-  @keyframes example {
-  0%   {left:0px;}
-  50%  {left:200px;}
-  100% {left:0px;}
-}
+ 
