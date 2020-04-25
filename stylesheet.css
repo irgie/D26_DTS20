@@ -98,7 +98,17 @@
   .header-left {
     float: left;
   }
+   .header-left img {
+       /*Animasi*/
+  animation-name: example;
+  animation-duration: 3s;
+}
   
+@keyframes example {
+  0%   {left:0px;}
+  50%  {left:200px;}
+  100% {left:0px;}
+}
   .header-right {
     float: right;
     margin-right: -25px;
