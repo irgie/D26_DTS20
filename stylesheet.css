@@ -99,7 +99,7 @@
     float: left;
   }
    .header-left img {
-       width: 10%;
+       width: 100%;
        position: relative;
        /*Animasi*/
   animation-name: example;
