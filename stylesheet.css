@@ -228,11 +228,11 @@
     font-weight: bold;
     position: relative;
     animation-duration: 30s;
-    animation-name: example;
+    animation-name: example1;
     background-color: white;
   }
   
-  @keyframes example {
+  @keyframes example1 {
     from {background-color: white;}
   to {background-color: red;}
   }
