@@ -228,9 +228,10 @@
     font-weight: bold;
     position: relative;
     animation-duration: 4s;
+    animation-name: example;
   }
   
-  @keyframes .div3 h4 {
+  @keyframes example {
     from {color: black;}
   to {color: red;}
   }
