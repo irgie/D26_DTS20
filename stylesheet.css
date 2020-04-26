@@ -227,10 +227,10 @@
     height: 50px;
     font-weight: bold;
     position: relative;
-    animation: mymove 5s infinite;
+    animation-duration: 4s;
   }
-  #div3 h4 {animation-timing-function: ease-in;}
-  @keyframes mymove {
-    from {left: 0px;}
-    to {left: 50px;}
+  
+  @keyframes .div3 h4 {
+    from {background-color: red;}
+  to {background-color: yellow;}
   }
