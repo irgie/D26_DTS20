@@ -229,9 +229,10 @@
     position: relative;
     animation-duration: 4s;
     animation-name: example;
+    background-color: white;
   }
   
   @keyframes example {
-    from {color: black;}
-  to {color: red;}
+    from {background-color: white;}
+  to {background-color: red;}
   }
