@@ -37,7 +37,9 @@
   .header-right{
     display:none;
   }
-  
+   .heading {
+    padding-top: 100px;
+  }
   
   .menu-icon{
     display:block;
